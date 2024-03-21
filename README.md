@@ -41,6 +41,7 @@ The script performs several key operations:
 
 # File Structure
 src/index.js - The main script file.
+BonusActivtivities/bonusActivities.js - The main script file implemented with bonus requirements.
 data/ - Directory where input files (trades 1.json, categories 1.xlsx) are stored and output.json is generated.
 # Built With
 - Node.js - The JavaScript runtime used
